@@ -108,5 +108,6 @@ Aşağıdaki bileşenler kullanılabilir:
 * Harita & coğrafi konum verisi
 * Zaman etiketi (gün, saat, tatil vs.)
 
+## github link https://github.com/jwwthu/GNN4Traffic
 ---
 
